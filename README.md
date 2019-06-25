@@ -7,3 +7,4 @@ Focussing on NetCDF (.nc) files with the `Raster` package.
 
 Own datafiles are required at this stage, to be saved in a "spatial_data_wrangling/data/" directory.
 
+Packages required: `raster` and `tidyverse`
